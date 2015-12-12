@@ -72,6 +72,7 @@ This extension tests PCS features.
     </dir>
    </dir>
    <dir name="tests">
+    <file name="autoload_002.phpt" role="test" />
     <file name="autoload_ext_class.phpt" role="test" />
     <file name="basic_001.phpt" role="test" />
     <file name="class_exists.phpt" role="test" />
